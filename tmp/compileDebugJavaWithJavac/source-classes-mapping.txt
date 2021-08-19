@@ -1,0 +1,2 @@
+com/example/dio_to_do_list/BuildConfig.java
+ com.example.dio_to_do_list.BuildConfig
